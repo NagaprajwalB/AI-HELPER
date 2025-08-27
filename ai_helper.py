@@ -71,4 +71,4 @@ if st.button("🚀 Generate Recommendations"):
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by [Nagaprajwal B] (https://dev-ops-engineer-portfolio.vercel.app/) | [GitHub](https://github.com/NagaprajwalB)")
+st.markdown("Developed by [Nagaprajwal B](https://dev-ops-engineer-portfolio.vercel.app/) | [GitHub](https://github.com/NagaprajwalB)")
